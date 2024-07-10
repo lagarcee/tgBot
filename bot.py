@@ -12,6 +12,8 @@ from aiogram.utils.executor import start_polling
 from aiogram.dispatcher.filters import Text
 import datetime
 
+API_TOKEN="api_token here"
+
 logging.basicConfig(level=logging.INFO)
 
 # Создаем объекты бота и диспетчера
